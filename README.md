@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Dev-SESUGH
-- 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning Devops 
-- 💞️ I’m looking to collaborate on cloud projects
+- 👋 Hi, I’m @SESUGH
+- 👀 I’m interested in Web developements
+- 🌱 I’m currently learning Front-end developement
+- 💞️ I’m looking to collaborate on Front End projects
 - 📫 How to reach me ...
 
 <!---

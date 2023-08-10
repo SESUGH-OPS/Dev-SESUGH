@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SESUGH
-- 👀 I’m interested in Web developement
-- 🌱 I’m currently learning Front-end  web developement
-- 💞️ I’m looking to collaborate on Front End projects
+- 👀 I’m interested in Cloud Development
+- 🌱 I’m currently learning Cloud Engineering
+- 💞️ I’m looking to collaborate on Cloud Projects
 - 📫 How to reach me on whatsaap @https://wa.me/+2347034292124 on linkdIn @https://www.linkedin.com/in/simeon-amiase-854367198/ on twitter@https://twitter.com/Dev_SESUGH
 
 <!---
